@@ -1,0 +1,7 @@
+name:  MaxTheOrange
+version:  1.0
+author:  Hydrations
+main:  me.hydrations.First_Cmd.Main
+commands:
+   maxtheorange:
+     description: This is our first command
