@@ -5,3 +5,5 @@ main:  me.hydrations.First_Cmd.Main
 commands:
    maxtheorange:
      description: This is our first command
+   maxtheorange2:
+     description: This is our second command
